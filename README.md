@@ -1,1 +1,1 @@
-# PrakSD
+# Struktur Data Universitas Gadjahmada
